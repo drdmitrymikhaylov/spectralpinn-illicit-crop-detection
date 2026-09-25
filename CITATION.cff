@@ -1,11 +1,21 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 type: software
-title: "spectralpinn-illicit-crop-detection"
+title: "SpectralPINN: UAV Spectrometry for Illicit Crop Detection"
+abstract: "UAV spectrometry that finds illicit crops from the air"
 authors:
   - family-names: Mikhaylov
     given-names: Dmitry
     orcid: "https://orcid.org/0009-0009-2108-6820"
+    affiliation: "Abu Dhabi Maritime Academy, AD Ports Group"
 repository-code: "https://github.com/drdmitrymikhaylov/spectralpinn-illicit-crop-detection"
+url: "https://github.com/drdmitrymikhaylov/spectralpinn-illicit-crop-detection"
 license: "CC-BY-4.0"
-year: 2026
+keywords:
+  - "hyperspectral"
+  - "physics informed neural networks"
+  - "precision agriculture"
+  - "radiative transfer"
+  - "remote sensing"
+  - "uav"
+date-released: "2026-09-10"
