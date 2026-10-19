@@ -1,0 +1,22 @@
+{
+  "upload_type": "software",
+  "title": "SpectralPINN: UAV Spectrometry for Illicit Crop Detection",
+  "description": "UAV spectrometry that finds illicit crops from the air",
+  "creators": [
+    {
+      "name": "Mikhaylov, Dmitry",
+      "orcid": "0009-0009-2108-6820",
+      "affiliation": "Abu Dhabi Maritime Academy, AD Ports Group"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "hyperspectral",
+    "physics informed neural networks",
+    "precision agriculture",
+    "radiative transfer",
+    "remote sensing",
+    "uav"
+  ],
+  "access_right": "open"
+}
