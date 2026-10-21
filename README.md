@@ -1,5 +1,7 @@
 # Spectral PINN — Detecting Illicit Crops from UAV Spectra
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23529573.svg)](https://doi.org/10.5281/zenodo.23529573)
+
 ## The field work behind it
 
 This is field technology. UAV spectrometers flown over hidden cannabis and ephedra plantations in rough terrain with a United Nations agency. Published in 2025 (*UAV mounted spectrometry camera solution for detecting illicit cannabis and ephedra plantations*, Springer), patent application filed, deployed. This page explains how a spectrometer in the air picks out an illicit crop from everything growing around it.
