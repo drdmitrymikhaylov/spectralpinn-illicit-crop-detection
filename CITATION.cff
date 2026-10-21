@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 type: software
 title: "SpectralPINN: UAV Spectrometry for Illicit Crop Detection"
+doi: "10.5281/zenodo.23529573"
 abstract: "UAV spectrometry that finds illicit crops from the air"
 authors:
   - family-names: Mikhaylov
